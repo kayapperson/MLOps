@@ -1,8 +1,0 @@
-name: project_environment
-
-dependencies:
-- python=3.6
-
-- pip:
-  - azureml-sdk
-  - azure-cli
